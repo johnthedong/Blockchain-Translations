@@ -14,11 +14,11 @@
          "header":"连接的节点"
       },
       "popular_addresses":{
-         "sub_header":"最流行的比特币地址的输出数量",
-         "title":"100个最热门的Bitcoin的地址 -  Blockchain.info",
-         "meta_description":"前100名最流行的比特币地址列表输出的数量。",
+         "sub_header":"以输出的数量安排最流行的比特币地址",
+         "title":"100个最热门的比特币地址 -  Blockchain.info",
+         "meta_description":"前100名最流行（以输出的数量安排）的比特币地址列表。",
          "address":"地址",
-         "number_of_outputs":"输出数",
+         "number_of_outputs":"输出数量",
          "header":"受欢迎的地址"
       },
       "deposit":{
