@@ -4,12 +4,12 @@
    "strings":{
       "connected_nodes":{
          "port":"端口",
-         "sub_header":"名单节点blockchain.info的连接到",
-         "ip_address":"IP",
-         "title":"Bitcoin的连接的节点列表",
+         "sub_header":"blockchain.info所连接的节点名单",
+         "ip_address":"IP地址",
+         "title":"比特币连接的节点列表",
          "connected_time":"连接时间（分钟）",
          "location":"位置",
-         "total_connected":"总的连接：{0}",
+         "total_connected":"总共连接的数量：{0}",
          "hostname":"主机名",
          "header":"连接的节点"
       },
